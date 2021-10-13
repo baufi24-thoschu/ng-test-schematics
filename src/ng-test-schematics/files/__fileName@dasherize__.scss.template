@@ -1,0 +1,7 @@
+* {
+    color: red;
+}
+
+.<%= dasherize(fileName) %> {
+    color: blue;
+}
