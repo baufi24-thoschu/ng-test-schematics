@@ -28,7 +28,7 @@ npm start
 npm publish
 ```
 
-In extern project:
+In extern schematics-test project:
 
 ```bash
 npm link ../my-simple-component
